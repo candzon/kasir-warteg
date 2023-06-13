@@ -5,7 +5,7 @@ Projek ini dibuat untuk memenuhi syarat UAS dengan menggunakan bahasa pemrograma
 
 
 ## Design Database
-![alt text](https://github.com/candzon/kasir-warteg/blob/master/img/erd-dbkasir.png)
+![alt text](https://github.com/candzon/kasir-warteg/blob/master/img/class-diagram.png)
 
 
 ## Features
