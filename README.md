@@ -4,6 +4,8 @@
 Projek ini dibuat untuk memenuhi syarat UAS dengan menggunakan bahasa pemrograman VB.NET
 
 
+## Design Database
+![alt text]([https://github.com/candzon/kasir-warteg/blob/master/img/formlogin.PNG](https://github.com/candzon/kasir-warteg/blob/master/img/erd-dbkasir.png))
 
 
 ## Features
