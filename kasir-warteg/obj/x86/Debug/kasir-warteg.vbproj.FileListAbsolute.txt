@@ -1,0 +1,45 @@
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\bin\Debug\kasir-warteg.exe
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\bin\Debug\kasir-warteg.pdb
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\bin\Debug\kasir-warteg.xml
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\kasir-warteg.vbproj.GenerateResource.Cache
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\kasir-warteg.exe
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\kasir-warteg.xml
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\kasir-warteg.pdb
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormPaketMakanan.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormTransaksi.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.MdiUtama.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormDataKasir.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormDataTransaksi.resources
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormDataKasir.resources
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormDataTransaksi.resources
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.MdiUtama.resources
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormPaketMakanan.resources
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormTransaksi.resources
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.vbproj.GenerateResource.Cache
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\bin\Debug\kasir-warteg.exe
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\bin\Debug\kasir-warteg.pdb
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\bin\Debug\kasir-warteg.xml
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.exe
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.xml
+D:\Feri\Kuliah\Pemrograman Visual I\UAS\kasir-warteg-final\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.pdb
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.exe
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.xml
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.pdb
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\bin\Debug\kasir-warteg.exe
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\bin\Debug\kasir-warteg.pdb
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\bin\Debug\kasir-warteg.xml
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormDataKasir.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormDataTransaksi.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.MdiUtama.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormPaketMakanan.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormTransaksi.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.vbproj.GenerateResource.Cache
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.exe
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.xml
+C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.pdb
