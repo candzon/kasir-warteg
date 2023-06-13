@@ -1,7 +1,7 @@
 
 # KASIR WARTEG
 
-Projek ini dibuat untuk memenuhi syarat UAS dengan menggunakan bahasa pemrograman VB.NET
+Projek ini dibuat untuk memenuhi syarat UAS Mata Kuliah Pemrograman Visual I dengan menggunakan bahasa pemrograman VB.NET
 
 
 ## Design Database
