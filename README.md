@@ -19,6 +19,6 @@ Projek ini dibuat untuk memenuhi syarat UAS dengan menggunakan bahasa pemrograma
 Install my-project with git
 
 ```bash
-  https://github.com/candzon/kasir-warteg.git
+  git clone https://github.com/candzon/kasir-warteg.git
   cd kasir-warteg
 ```
