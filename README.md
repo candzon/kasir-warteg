@@ -13,9 +13,11 @@ Projek ini dibuat untuk memenuhi syarat UAS dengan menggunakan bahasa pemrograma
 - Login
 - MDI (Multiple Document Interface)
 - Fullscreen mode
-- Auto SUM
+- CRUD (Create, Update, Delete)
+- a combo box selects an item in the database.
+- Auto SUM dealings
 - Refresh Data Grid View
-- Lock TextBox if Form's load
+- Lock the textbox if the form loads.
 
 
 ## Installation
