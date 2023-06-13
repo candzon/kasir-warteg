@@ -22,3 +22,7 @@ Install my-project with git
   git clone https://github.com/candzon/kasir-warteg.git
   cd kasir-warteg
 ```
+
+## Application UI
+![alt text](https://github.com/candzon/kasir-warteg/blob/master/img/formlogin.PNG)
+![alt text](https://github.com/candzon/kasir-warteg/blob/master/img/sample.PNG)
