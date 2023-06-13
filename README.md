@@ -14,6 +14,8 @@ Projek ini dibuat untuk memenuhi syarat UAS dengan menggunakan bahasa pemrograma
 - MDI (Multiple Document Interface)
 - Fullscreen mode
 - Auto SUM
+- Refresh Data Grid View
+- Lock TextBox if Form's load
 
 
 ## Installation
