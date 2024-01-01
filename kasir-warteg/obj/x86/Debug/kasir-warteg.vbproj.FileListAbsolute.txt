@@ -43,3 +43,17 @@ C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.
 C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.exe
 C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.xml
 C:\Users\candzon\Feri\Kuliah\Semester 2\Pemrograman Visual I\UAS\kasir-warteg-V.0.2\UAS1122140141\kasir-warteg\obj\x86\Debug\kasir-warteg.pdb
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\kasir-warteg.exe
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\kasir-warteg.xml
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\kasir-warteg.pdb
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\bin\Debug\kasir-warteg.exe
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\bin\Debug\kasir-warteg.pdb
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\bin\Debug\kasir-warteg.xml
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormDataKasir.resources
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormDataTransaksi.resources
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormLogin.resources
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.MdiUtama.resources
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormPaketMakanan.resources
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.FormTransaksi.resources
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\candzon\OneDrive\Documents\Feri\kasir-warteg\kasir-warteg\obj\x86\Debug\kasir-warteg.vbproj.GenerateResource.Cache
