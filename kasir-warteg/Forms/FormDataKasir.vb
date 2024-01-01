@@ -3,7 +3,7 @@ Public Class FormDataKasir
 
     Private Sub FormDataKasir_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Call KoneksiDb()
-        Da = New OdbcDataAdapter("SELECT * FROM kasir", Conn)
+        Da = New OdbcDataAdapter("SELECT * FROM tb_user", Conn)
         Ds = New DataSet
         Ds.Clear()
         Da.Fill(Ds, "kasir")
